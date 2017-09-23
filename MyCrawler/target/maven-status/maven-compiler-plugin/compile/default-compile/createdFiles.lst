@@ -1,0 +1,14 @@
+com\kxcbs\service\impl\TestServiceImpl.class
+com\kxcbs\service\TestService.class
+com\kxcbs\custom\annotations\GetPerforms.class
+com\kxcbs\dao\TestDao.class
+com\kxcbs\controller\TsetTController.class
+com\kxcbs\dao\CrawlerDao.class
+com\kxcbs\entity\ResultMessage.class
+com\kxcbs\service\CrawlerService.class
+com\kxcbs\Application.class
+com\kxcbs\utils\Aop.class
+com\kxcbs\config\CrawlerConfig.class
+com\kxcbs\utils\ReturnResult.class
+com\kxcbs\controller\CrawlerController.class
+com\kxcbs\service\impl\CrawlerServiceImpl.class
